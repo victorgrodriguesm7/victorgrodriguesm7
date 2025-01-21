@@ -1,6 +1,6 @@
 # Victor Rodrigues
 
-- 🔥 I'm a Full Stack developer with 4 years of experience
+- 🔥 I'm a Full Stack developer with 5 years of experience
 - 🔭 I’m currently working at [Niky](https://niky.com.vc), revolutionizing how companies reward their employees
 - ⚡ I love to solve problems using tech
 - 💬 Ask me about JavaScript, HTML, CSS, SQL, Node.JS
